@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "319997edbf9c7f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5492ee97c51d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab743f72e4f699c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "docs"
+            }
+          },
+          {
+            "id": "a0b935e9af2ad71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev-notes/development-workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "development-workflow"
+            }
+          },
+          {
+            "id": "a08a95abd21b95d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev-notes/daily-notes/2025-08-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-16"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbaa3f1606949614",
+    "type": "split",
+    "children": [
+      {
+        "id": "157699ec379fa04c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4852c158c4468db1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd56abce35441174",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ccec6fef8d3a207",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f4d464ae121cad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c523f742578e09cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3016bb8aade7a9ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev-notes/development-workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for development-workflow"
+            }
+          },
+          {
+            "id": "13a08b5c33cad1e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dev-notes/development-workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from development-workflow"
+            }
+          },
+          {
+            "id": "2bf92c7d63a92620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2be86b089a9c59d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dev-notes/development-workflow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of development-workflow"
+            }
+          },
+          {
+            "id": "b158a6fec2b994a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a0b935e9af2ad71b",
+  "lastOpenFiles": [
+    "dev-notes/daily-notes/2025-08-16.md",
+    "dev-notes/development-workflow.md",
+    "docs.md",
+    "dev-notes/api-endpoints.md",
+    "dev-notes/testing.md",
+    "dev-notes/git-branches.md",
+    "dev-notes/frontend-wireframe.md",
+    "dev-notes/database-schema.md",
+    "templates/trello-card-template.md",
+    "templates/daily-note-template.md",
+    "dev-notes/development-environment.md",
+    "templates",
+    "dev-notes/deployment.md",
+    "Development Workflow.md",
+    "dev-notes/daily-notes/Aug. 16, 2025.md",
+    "dev-notes/daily-notes",
+    "dev-notes"
+  ]
+}
