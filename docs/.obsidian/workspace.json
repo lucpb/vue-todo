@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev-notes/daily-notes/2025-08-17.md",
+                "file": "dev-notes/daily-notes/2025-08-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-17"
+              "title": "2025-08-18"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev-notes/daily-notes/2025-08-17.md",
+                "file": "dev-notes/daily-notes/2025-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-17"
+              "title": "Backlinks for 2025-08-18"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev-notes/daily-notes/2025-08-17.md",
+                "file": "dev-notes/daily-notes/2025-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-17"
+              "title": "Outgoing links from 2025-08-18"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev-notes/daily-notes/2025-08-17.md",
+                "file": "dev-notes/daily-notes/2025-08-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-17"
+              "title": "Outline of 2025-08-18"
             }
           },
           {
@@ -224,8 +224,9 @@
   },
   "active": "fb79fe71b777a4de",
   "lastOpenFiles": [
-    "dev-notes/daily-notes/2025-08-16.md",
     "dev-notes/daily-notes/2025-08-17.md",
+    "dev-notes/daily-notes/2025-08-18.md",
+    "dev-notes/daily-notes/2025-08-16.md",
     "dev-notes/development-workflow.md",
     "docs.md",
     "dev-notes/api-endpoints.md",

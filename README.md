@@ -38,5 +38,5 @@ For detailed developer notes, project structure, pseudocode, and workflow docume
 ## Project Links
 
 - [GitHub Repository](https://github.com/lucpb/vue-todo)  
-- [GitLab Repository](https://gitlab.com/portfolio2580233/vue-todo)
+- [GitLab Repository](https://gitlab.com/lucpb/vue-todo)
 - [Vercel (Placeholder)](https://vercel.com)
