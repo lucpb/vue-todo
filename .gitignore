@@ -1,0 +1,6 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/**/node_modules/
+.obsidian/plugins/**/dist/
+.obsidian/appearance.json
+.obsidian/hotkeys.json

@@ -33,7 +33,7 @@ Placeholder image
 
 ## Documentation
 
-For detailed developer notes, project structure, pseudocode, and workflow documentation, see the [Docs Vault](./docs.md).
+For detailed developer notes, project structure, pseudocode, and workflow documentation, see the [Docs Vault](./docs/docs.md).
 
 ## Project Links
 
