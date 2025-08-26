@@ -1,11 +1,21 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="background">
+  </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+:global(html, body, #app) {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Clamp the gray box to the viewport */
+.background {
+  position: fixed;   /* pins to viewport */
+  inset: 0;          /* top/right/bottom/left = 0 */
+  background: #1e1e2e;
+}
+</style>

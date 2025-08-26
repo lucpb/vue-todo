@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docs"
-            }
-          },
-          {
-            "id": "a0b935e9af2ad71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "dev-notes/development-workflow.md",
                 "mode": "source",
                 "source": false
@@ -36,35 +22,21 @@
             }
           },
           {
-            "id": "a08a95abd21b95d2",
+            "id": "ac93c120d4aeef4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev-notes/daily-notes/2025-08-16.md",
+                "file": "dev-notes/daily-notes/2025-08-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
-            }
-          },
-          {
-            "id": "fb79fe71b777a4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev-notes/daily-notes/2025-08-18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-18"
+              "title": "2025-08-26"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2f4d464ae121cad7",
@@ -213,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,13 +195,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb79fe71b777a4de",
+  "active": "ac93c120d4aeef4e",
   "lastOpenFiles": [
-    "dev-notes/daily-notes/2025-08-17.md",
-    "dev-notes/daily-notes/2025-08-18.md",
-    "dev-notes/daily-notes/2025-08-16.md",
     "dev-notes/development-workflow.md",
+    "dev-notes/daily-notes/2025-08-26.md",
+    "Untitled 1.md",
+    "dev-notes/daily-notes/2025-08-25.md",
+    "dev-notes/daily-notes/2025-08-18.md",
+    "Untitled.md",
     "docs.md",
+    "dev-notes/daily-notes/2025-08-16.md",
+    "dev-notes/daily-notes/2025-08-17.md",
     "dev-notes/api-endpoints.md",
     "templates/daily-note-template.md",
     "templates/trello-card-template.md",
